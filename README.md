@@ -1,4 +1,4 @@
-# Kyle Lin
+# <img src="kylelinvfx_logo.png" alt="kylelinvfx" width="25"/>  Kyle Lin
 
 ### Hi! 👋 
 I am a Houdini FX artist from Taiwan. I enjoy creating FX simulations and tools for creative solution or 
